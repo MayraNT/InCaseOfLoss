@@ -60,3 +60,6 @@ Data is categorized into tables with their respective relationships and fields.
 1. Save and click on the new connection
 1. Create a new query tab in MySql Workbench and open the script file with your tables and data
 1. Run the query by clicking the lightning bolt to see your tables and data populate
+* If you don't already have a script file to load, you can seed data by creating tables and inserting them into the database.
+1. Use the Create Table statement to specify the name of a table and columns that will hold your data and data types. The table will be created if it does not already exist.
+1. Use an Insert Into statement to add the data values and specify which columns they belong to.
