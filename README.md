@@ -50,7 +50,7 @@ Data is categorized into tables with their respective relationships and fields.
 |  | Loved One Id |
 |  | Note Message |
 
-## Creating and Connecting a Database
+## Create, Connect, and Seed a Database
 1. In Google Cloud Platform, click the 'Databases' tab in the Instance menu
 1. Create and title a new database by clicking the button for 'Create Database'
 1. Make sure the database instance can be accessed outside of the console by adding your IP address in the 'Connections' tab
