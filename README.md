@@ -3,8 +3,6 @@
 ## Purpose
 The focus of this app is to serve as a safe space for someone to more easily handle the matters surrounding the loss of a loved one. Users will be able to create a profile that can keep track of important information, photos and documents for one or more loved ones. The hope is that this app can make an already difficult situation just a bit more manageable. (*The name of the app is still under consideration*)
 
-***
-
 ## The Data
 Data is categorized into tables with their respective relationships and fields.
 
@@ -51,8 +49,6 @@ Data is categorized into tables with their respective relationships and fields.
 | `Notes` | Id |
 |  | Loved One Id |
 |  | Note Message |
-
-***
 
 ## Creating and Connecting a Database
 1. In Google Cloud Platform, click the 'Databases' tab in the Instance menu
