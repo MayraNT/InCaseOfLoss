@@ -11,7 +11,7 @@ Data is categorized into tables with their respective relationships and fields.
 | Table  | Data | Relationship | 
 |  -  |  -  |  -  |
 | `Users` | App users sign up with an email and password |
-| `Loved One` | Users can keep track of loved ones and their information | One user to Many loved-ones |
+| `Loved Ones` | Users can keep track of loved ones and their information | One user to Many loved-ones |
 | `Reminders` | Create a list of reminders | One user to Many reminders |
 | `Photos` | Upload and store photos | One loved-one to Many photos |
 | `Documents` | Upload and store documents | One loved-one to Many documents |
@@ -26,7 +26,7 @@ Data is categorized into tables with their respective relationships and fields.
 | - | Last Name |
 | - | Email |
 | - | Password |
-| `Loved One` |  |
+| `Loved Ones` |  |
 | - | Loved One Id |
 | - | User Id |
 | - | Full Name |
