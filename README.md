@@ -20,44 +20,37 @@ Data is categorized into tables with their respective relationships and fields.
 
 | Table | Fields |
 |  -  |  -  |
-| `Users` |  |
-| - | Id |
-| - | First Name |
-| - | Last Name |
-| - | Email |
-| - | Password |
-| `Loved Ones` |  |
-| - | Loved One Id |
-| - | User Id |
-| - | Full Name |
-| - | Date of Birth |
-| - | Date of Death |
-| - | Funeral Information |
-| `Reminders` |  |
-| - | Reminder Id |
-| - | User Id |
-| - | Reminder Message |
-| `Photos` |  |
-| - | Photo Id |
-| - | Loved One Id |
-| - | Photo Image |
-| `Documents` |  |
-| - | Document Id |
-| - | Loved One Id |
-| - | Document |
-| - | Date Added |
-| `Creditors` |  |
-| - | Creditor Id |
-| - | Loved One Id |
-| - | Name |
-| - | Phone |
-| - | Email |
-| - | Address |
-| - | Amount Owed |
-| `Notes` |  |
-| - | Note Id |
-| - | Loved One Id |
-| - | Note Message |
+| `Users` | Id |
+|  | First Name |
+|  | Last Name |
+|  | Email |
+|  | Password |
+| `Loved Ones` | Id |
+|  | User Id |
+|  | Full Name |
+|  | Date of Birth |
+|  | Date of Death |
+|  | Funeral Information |
+| `Reminders` | Id |
+|  | User Id |
+|  | Reminder Message |
+| `Photos` | Id |
+|  | Loved One Id |
+|  | Image |
+| `Documents` | Id |
+|  | Loved One Id |
+|  | Document |
+|  | Date Added |
+| `Creditors` | Id |
+|  | Loved One Id |
+|  | Name |
+|  | Phone |
+|  | Email |
+|  | Address |
+|  | Amount Owed |
+| `Notes` | Id |
+|  | Loved One Id |
+|  | Note Message |
 
 ***
 
